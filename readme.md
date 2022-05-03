@@ -18,7 +18,7 @@ fs ... node package, no download necessary. fs means file system, great for mane
 
 mongoose ... schema's, server starter, easy to pick api. I jumped in the api and it was like I was reading from the dictionary.
 
-socket-io ... adds a great listening aspect applications.
+socket.io ... adds a great listening aspect applications.
 
 nodemon ... Keeps the server running be sure to exclude the react client folder.
 
@@ -34,16 +34,16 @@ axios ... "Gav, why axios when we have express?" "Well theres a lot company's ou
 
 client side (react, node) of the top of my head
 
-react-icons
+react-icons ... OHHHHHHH. MY. GOSH. Heaven sent. Amazing icon's, vast plethora to chose from.
 
-react-dom
+react-dom ... react-dom is one of those tech packages its not used very heavily in the creation of my applications though react does cite it in the index.js.
 
-react-router-dom
+react-router-dom ... this is a great package I use it for customer react < a > tags called < Link > hello </ Link > tags.
 
-react
+react ... renders all of our jsx. Hook's are also rendered threw here and the react program would infer you need hooks with functional components in order to make robust applications.
 
-socket-io-client
+socket.io-client ... a gear in the socket-io turntables
 
-react-form-hook
+react-form-hook ... an absolute must. Most applications have forms this your forms tool belt.
 
 theres a lot of basic react bcrypt jsonwebtoken stuff, I put a bunch of semantic auth stuff, whether its auth for a customer, auth for an employee, auth for a ceo, etc.
